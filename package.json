@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gffny/testLambdaLimits/issues"
   },
-  "homepage": "https://github.com/gffny/testLambdaLimits#readme"
+  "homepage": "https://github.com/gffny/testLambdaLimits#readme",
+  "dependencies": {
+    "@plastiq/plastiq-common-logging": "^1.822.0"
+  }
 }
