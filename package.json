@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/gffny/testLambdaLimits/issues"
   },
-  "homepage": "https://github.com/gffny/testLambdaLimits#readme"
+  "homepage": "https://github.com/gffny/testLambdaLimits#readme",
+  "dependencies": {
+    "@plastiq/config": "^1.810.0",
+    "@plastiq/plastiq-common-logging": "^1.822.0",
+    "@plastiq/redis-client": "^1.765.0"
+  }
 }
